@@ -1,2 +1,2 @@
-# sms
-Society Management System
+# residence management
+Residence Management System
